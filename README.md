@@ -1,6 +1,6 @@
 # Inventory Management System
 
-### A full-stack production application — built from scratch during a one-month university internship at [ISETK](https://isetk.rnu.tn/)
+### A full-stack production application — built from scratch during a one-month university internship at [ISETK](https://www.facebook.com/KairouanISET)
 
 *My first professional project. Real company. Real deployment. Real responsibility.*
 ---
